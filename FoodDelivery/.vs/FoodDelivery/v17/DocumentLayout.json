@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practica\\FoodDelivery\\FoodDelivery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E1DA7A-5ECB-4A69-9DE6-D73776D342D2}|FoodDelivery\\FoodDelivery.csproj|d:\\practica\\fooddelivery\\fooddelivery\\fooddelivery\\repositories\\orderrepo\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E1DA7A-5ECB-4A69-9DE6-D73776D342D2}|FoodDelivery\\FoodDelivery.csproj|solutionrelative:fooddelivery\\repositories\\orderrepo\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E1DA7A-5ECB-4A69-9DE6-D73776D342D2}|FoodDelivery\\FoodDelivery.csproj|d:\\practica\\fooddelivery\\fooddelivery\\fooddelivery\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E1DA7A-5ECB-4A69-9DE6-D73776D342D2}|FoodDelivery\\FoodDelivery.csproj|solutionrelative:fooddelivery\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E1DA7A-5ECB-4A69-9DE6-D73776D342D2}|FoodDelivery\\FoodDelivery.csproj|d:\\practica\\fooddelivery\\fooddelivery\\fooddelivery\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E1DA7A-5ECB-4A69-9DE6-D73776D342D2}|FoodDelivery\\FoodDelivery.csproj|solutionrelative:fooddelivery\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E1DA7A-5ECB-4A69-9DE6-D73776D342D2}|FoodDelivery\\FoodDelivery.csproj|d:\\practica\\fooddelivery\\fooddelivery\\fooddelivery\\filters\\actionfilters\\orderfilters\\verifyaddorderactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E1DA7A-5ECB-4A69-9DE6-D73776D342D2}|FoodDelivery\\FoodDelivery.csproj|solutionrelative:fooddelivery\\filters\\actionfilters\\orderfilters\\verifyaddorderactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E1DA7A-5ECB-4A69-9DE6-D73776D342D2}|FoodDelivery\\FoodDelivery.csproj|d:\\practica\\fooddelivery\\fooddelivery\\fooddelivery\\dtos\\neworderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E1DA7A-5ECB-4A69-9DE6-D73776D342D2}|FoodDelivery\\FoodDelivery.csproj|solutionrelative:fooddelivery\\dtos\\neworderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\Practica\\FoodDelivery\\FoodDelivery\\FoodDelivery\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "FoodDelivery\\Models\\Orders.cs",
+              "ToolTip": "D:\\Practica\\FoodDelivery\\FoodDelivery\\FoodDelivery\\Models\\Orders.cs",
+              "RelativeToolTip": "FoodDelivery\\Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T04:51:22.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewOrderDTO.cs",
+              "DocumentMoniker": "D:\\Practica\\FoodDelivery\\FoodDelivery\\FoodDelivery\\DTOs\\NewOrderDTO.cs",
+              "RelativeDocumentMoniker": "FoodDelivery\\DTOs\\NewOrderDTO.cs",
+              "ToolTip": "D:\\Practica\\FoodDelivery\\FoodDelivery\\FoodDelivery\\DTOs\\NewOrderDTO.cs",
+              "RelativeToolTip": "FoodDelivery\\DTOs\\NewOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T04:32:56.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Practica\\FoodDelivery\\FoodDelivery\\FoodDelivery\\Repositories\\OrderRepo\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "FoodDelivery\\Repositories\\OrderRepo\\OrderRepository.cs",
+              "ToolTip": "D:\\Practica\\FoodDelivery\\FoodDelivery\\FoodDelivery\\Repositories\\OrderRepo\\OrderRepository.cs",
+              "RelativeToolTip": "FoodDelivery\\Repositories\\OrderRepo\\OrderRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAawD8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T04:31:27.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VerifyAddOrderActionFilter.cs",
+              "DocumentMoniker": "D:\\Practica\\FoodDelivery\\FoodDelivery\\FoodDelivery\\Filters\\ActionFilters\\OrderFilters\\VerifyAddOrderActionFilter.cs",
+              "RelativeDocumentMoniker": "FoodDelivery\\Filters\\ActionFilters\\OrderFilters\\VerifyAddOrderActionFilter.cs",
+              "ToolTip": "D:\\Practica\\FoodDelivery\\FoodDelivery\\FoodDelivery\\Filters\\ActionFilters\\OrderFilters\\VerifyAddOrderActionFilter.cs",
+              "RelativeToolTip": "FoodDelivery\\Filters\\ActionFilters\\OrderFilters\\VerifyAddOrderActionFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T04:25:59.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Practica\\FoodDelivery\\FoodDelivery\\FoodDelivery\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "FoodDelivery\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Practica\\FoodDelivery\\FoodDelivery\\FoodDelivery\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "FoodDelivery\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:52:02.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
